@@ -3,19 +3,18 @@
 # I. Bienvenida
 Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de entrenamiento.
 
-[Liga Acceso Telegram grupal](https://t.me/+c1wzbP4_A6UyOWUx) Importante unirse ya que toda la comunicación del curso se lleva por este medio.
+[Liga Acceso Telegram grupal](https://t.me/+uXz7RqmdaCU3NmJh)
 
 Calendario Android Bloque 3 <br>
-<img width="520" alt="Calendario Android Bloque 3" src="https://user-images.githubusercontent.com/94467952/214110758-df6c282f-4ee9-48b3-86b4-b087371fb2f8.png">
-
+<img width="520" alt="Calendario Android Bloque 4" src="https://user-images.githubusercontent.com/94467952/226063570-aa7fc82a-4724-40fc-ab1d-dd69a44975c1.png">
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos: 
 
 **Sesiones en Vivo** 
 - Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Martes: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/81228799958) en caso que no puedan presentarse.
-- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/81228799958)
+- Miércoles y Jueves: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/83433437099) en caso que no puedan presentarse.
+- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/83433437099)
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final.
@@ -23,7 +22,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
-- Lunes y Martes: 4pm en oficinas de Wizeline
+- Miércoles y Jueves: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
 - Son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
