@@ -66,7 +66,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ### Semana 6
    1. [Programación Modular](/6/Jetpack%20Compose%20I)
    2. [Configuracion de Flavors](/6/Jetpack%20Compose%20II)
-   3. [Identificacióon de buenas practicas de programación](/6/Jetpack%20Compose%20III)
+   3. [Identificación de buenas practicas de programación](/6/Jetpack%20Compose%20III)
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
