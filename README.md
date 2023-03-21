@@ -5,8 +5,8 @@ Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de e
 
 [Liga Acceso Telegram grupal](https://t.me/+uXz7RqmdaCU3NmJh)
 
-Calendario Android Bloque 3 <br>
-<img width="520" alt="Calendario Android Bloque 4" src="https://user-images.githubusercontent.com/94467952/226063570-aa7fc82a-4724-40fc-ab1d-dd69a44975c1.png">
+Calendario Android Bloque 4 <br>
+<img width="482" alt="Calendario Android Bloque 4" src="https://user-images.githubusercontent.com/94467952/226653118-27185af1-dce0-4842-99b6-452778350fe5.png">
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos: 
@@ -14,7 +14,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 **Sesiones en Vivo** 
 - Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
 - Miércoles y Jueves: 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/83433437099) en caso que no puedan presentarse.
-- Viernes: 9am en línea por [Zoom](https://wizeline.zoom.us/j/83433437099)
+- Viernes: 9am en línea por [Zoom]([https://wizeline.zoom.us/j/83433437099](https://wizeline.zoom.us/j/83433437099))
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final.
@@ -82,30 +82,6 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 [Aquí](https://github.com/wizelineacademy/Baz-Android-Capstone) encontrarás las instrucciones para completar tu proyecto final.
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
-
-# V. Agenda tu mentoria 📆
-
-Selecciona la liga de Calendly de tu mentor asignado, te abrirá su calendario con la disponibilidad por día y horarios. Elige la que mejor se acomode a tu necesidad.
-
-Si deseas tener una mentoría, adicional a las de tu proyecto final, puedes seleccionar a cualquier otro mentor con base en su disponibilidad:
-
-Recuerda llenar el **[Formato de Retroalimentación](https://forms.gle/6uJwZ6HeCXGPXr3HA)** al final de **cada una** de tus mentorías.
-
-### Asignacion Mentores
-
-| ID Empleado | Nombre                              | Mentor (Calendly)           | Mentor (Github)
-| ----------: | :---------------------------------- | :-------------------------- | :--------------------------|
-|   1066022   |    JAVIER GOMEZ COHETERO            | [Alfredo Arrieta](https://calendly.com/alfredo_arrieta/baz-mentoria-1-1)| [Alfredo Arrieta](https://github.com/mrarrieta)        |
-|   1037208   |    JUAN PABLO GUZMAN LOPEZ          | [Alfredo Arrieta](https://calendly.com/alfredo_arrieta/baz-mentoria-1-1) | [Alfredo Arrieta](https://github.com/mrarrieta)        |
-|   952812    |    JUAN ANTONIO VERA GOMEZ          | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
-|   1068732   |    ERNESTO LOMABARDINI ELISEO       | [Ricardo Sarabia](https://calendly.com/ricardo-sarabia/) | [Ricardo Sarabia](https://github.com/ricsarabia)|
-|   1024810   |    MARLON ALBERTO JACOBO RIVERA     | [Diego Parra](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1)| [Diego Parra](https://github.com/diego-parra-robayo)|
-|   68979     |    OMAR MORALES ALANIS              | [Alejandro Barranco](https://calendly.com/emmanuel-barranco/baz-mentoria-1-1)| [Alejandro barranco](https://github.com/cefmmaku)|
-|   1046623   |    HECTOR SAMUEL PEREZ CASTRO       | [Alejandro Barranco](https://calendly.com/emmanuel-barranco/baz-mentoria-1-1)| [Alejandro barranco](https://github.com/em4n0101)|
-|   1031967   |    JUAN CARLOS CONSUELO BELTRAN     | [Andrés Bobadilla](https://calendly.com/andres-bobadilla/baz-mentoria-1-1)| [Andrés Bobadilla](https://github.com/andrescoulson)| 
-|   97807     |    JORGE MADRIGAL RODRIGUEZ         | [Iván Espitia](https://calendly.com/ivan-espitia/baz-mentoria-1-1)| [Iván Espitia](https://github.com/ivanespitiac)| 
-|   961201.   |    CARLOS ALBERTO ARTEAGA LIRA      | [Julio Picazo](https://calendly.com/julio-picazo/baz-mentoria-1-1)| [Julio Picazo](https://github.com/PicazoBcWize)| 
-|   948244    |    ELIZABETH PEREZ VASQUEZ          | [Luis Mario Salas](https://calendly.com/luis-mario-salas/baz-mentoria-1-1)| [Luis Mario Salas](https://github.com/luismario-wize)| 
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
