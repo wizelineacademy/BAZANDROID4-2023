@@ -39,34 +39,34 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1
-   1. [Básicos de Kotlin I](/1/Básicas%20de%20Kotlin%20l)
-   2. [Básicos de Kotlin II](/1/B%C3%A1sicos%20de%20Kotlin%20II)
-   3. [Básicos de Kotlin III](/1/B%C3%A1sicos%20de%20Kotlin%20IIl)
+   1. [Comunicación entre Fragments y Activity](/1/Básicas%20de%20Kotlin%20l)
+   2. [Navigation Component](/1/B%C3%A1sicos%20de%20Kotlin%20II)
+   3. [Herramientas de Firebase](/1/B%C3%A1sicos%20de%20Kotlin%20IIl)
 
 ### Semana 2 
-   1. [Programación Orientada a Objetos I](/2/Programacion_Orientada_a_Objetos_1)
-   2. [Programación Orientada a Objetos II](/2/Programacion_Orientada_a_Objetos_2)
-   3. [Programación Orientada a Objetos III](/2/Programacion_Orientada_a_Objetos_3)
+   1. [Corrutinas](/2/Programacion_Orientada_a_Objetos_1)
+   2. [Rx](/2/Programacion_Orientada_a_Objetos_2)
+   3. [Capas (UI, DOMAIN, DATA)](/2/Programacion_Orientada_a_Objetos_3)
 
 ### Semana 3
-   1. [Principios SOLID](/3/Principios%20SOLID%20)
-   2. [Introducción a Android Studio](/3/Android%20Studio)
-   3. [Consumo de Servicios con Retrofit](/4/ConsumoRetrofit)
+   1. [ROOM](/3/Principios%20SOLID%20)
+   2. [MVVM vs MVI](/3/Android%20Studio)
+   3. [Patrón de Diseño](/4/ConsumoRetrofit)
     
 ### Semana 4
-   1. Room
-   2. [Mobile App Design: MVVM](/4/MVVM)
-   3. [Viewbinding vs Databinding](/4/ViewBindingVsDataBinding)
+   1. [Inyección de Dependencias]
+   2. [JetPack Compose Parte 1](/4/MVVM)
+   3. [JetPack Compose Parte 2](/4/ViewBindingVsDataBinding)
 
 ### Semana 5
-   1. [Kotlin Coroutines I](/5/Kotlin%20coroutines%20I)
-   2. [Kotlin Coroutines II](/5/Kotlin%20coroutines%20II)
-   3. [Kotlin Coroutines III](/5/Kotlin%20coroutines%20III)
+   1. [Unit Testing: Parte 1](/5/Kotlin%20coroutines%20I)
+   2. [Unit Testing: Parte 2](/5/Kotlin%20coroutines%20II)
+   3. [Instrument Testing](/5/Kotlin%20coroutines%20III)
 
 ### Semana 6
-   1. [Jetpack Compose I](/6/Jetpack%20Compose%20I)
-   2. [Jetpack Compose II](/6/Jetpack%20Compose%20II)
-   3. [Jetpack Compose III](/6/Jetpack%20Compose%20III)
+   1. [Programación Modular](/6/Jetpack%20Compose%20I)
+   2. [Configuracion de Flavors](/6/Jetpack%20Compose%20II)
+   3. [Identificacióon de buenas practicas de programación](/6/Jetpack%20Compose%20III)
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
