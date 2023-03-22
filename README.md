@@ -40,8 +40,8 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 1
    1. [Comunicación entre Fragments y Activity](/1/Comunicación%20entre%20Fragments%20y%20Activity)
-   2. [Navigation Component](/1/B%C3%A1sicos%20de%20Kotlin%20II)
-   3. [Herramientas de Firebase](/1/B%C3%A1sicos%20de%20Kotlin%20IIl)
+   2. [Navigation Component](/1/Navigation%20Component)
+   3. [Herramientas de Firebase](/1/Firebase)
 
 ### Semana 2 
    1. [Corrutinas](/2/Programacion_Orientada_a_Objetos_1)
