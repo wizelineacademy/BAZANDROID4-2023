@@ -6,7 +6,8 @@ Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de e
 [Liga Acceso Telegram grupal](https://t.me/+uXz7RqmdaCU3NmJh)
 
 Calendario Android Bloque 4 <br>
-<img width="482" alt="Calendario Android Bloque 4" src="https://user-images.githubusercontent.com/94467952/226653118-27185af1-dce0-4842-99b6-452778350fe5.png">
+<img width="478" alt="Screen Shot 2023-03-22 at 14 36 21" src="https://user-images.githubusercontent.com/114529977/227031893-58dcf1fb-0923-4651-b176-87447e215aa1.png">
+
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos: 
