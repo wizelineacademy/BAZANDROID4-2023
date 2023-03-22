@@ -6,7 +6,7 @@ Bienvenido a tu capacitación de Mobile Android la cual consta de 6 semanas de e
 [Liga Acceso Telegram grupal](https://t.me/+uXz7RqmdaCU3NmJh)
 
 Calendario Android Bloque 4 <br>
-<img width="478" alt="Screen Shot 2023-03-22 at 14 36 21" src="https://user-images.githubusercontent.com/114529977/227031893-58dcf1fb-0923-4651-b176-87447e215aa1.png">
+<img width="478" alt="Screen Shot 2023-03-22 at 14 36 21" src="https://user-images.githubusercontent.com/94467952/227048554-b9dad131-9c93-4ef2-a754-873238976ab7.png">
 
 
 # II. Información general del entrenamiento
@@ -94,8 +94,8 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/ZvhbRp8jBrP
 
 | Mentor               | Mentee                          |  Liga para agendar mentoria                |
 |----------------------|---------------------------------|--------------------------------------------|
-| `Diego Parra Robayo`       | - ALEJANDRO POZAS OLIVA   <br/> - ALFREDO SALVADOR GRANCIANO HERNANDEZ   | [Liga]() |
-| `Julio Saldaña Baez`      | - JOSE LUIS PINO UCAN  <br/> - JOSE ANDRES RIVAS JERONIMO  | [Liga]()
+| `Diego Parra Robayo`       | - ALEJANDRO POZAS OLIVA   <br/> - ALFREDO SALVADOR GRANCIANO HERNANDEZ   | [Liga](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1) |
+| `Julio Saldaña Baez`      | - JOSE LUIS PINO UCAN  <br/> - JOSE ANDRES RIVAS JERONIMO  | [Liga](https://calendly.com/julio-saldana)
 | `Angel Ivan Colunga Hernandez`       | - PEDRO ANTONIO AMBROSIO <br/> - ROBERTO ANTONIO GUTIERREZ CAMPOS | [Liga]()
 | `Héctor Burgos Rosado`       | - JACOBO GONZALEZ TAMAYO <br/> -  OSCAR JAIR RODRIGUEZ LARA  | [Liga]() |
 | `Max Bautista Aguirre`      | -  JOSE LUIS HERNANDEZ GARDUÑO <br/> - JOSE RAMON SUBIAS MENDOZA | [Liga]() |
