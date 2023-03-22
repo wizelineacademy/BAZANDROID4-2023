@@ -90,7 +90,7 @@ Para la revisión de tu Capstone Project se te asignó un mentor quien te dará 
 - **BANCA DIGITAL**: Siguen con sus actividades habituales asignadas por su líder de gremio
 
 
-# VII. Contacto DSA
-Si tienes alguna duda sobre el programa, logística, accesos, etc., por favor contacta al equipo de Wizeline Academy
+# VII. Contacto Wizeline DSA
+Si tienes alguna duda sobre el programa, logística, accesos, etc., por favor contacta al equipo de Wizeline DSA
 
 :email: Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
