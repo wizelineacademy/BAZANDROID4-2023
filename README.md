@@ -85,6 +85,25 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
 
+# V. Agenda tu mentoria 📆
+Cada alumno/mentee debera contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables correspondientes a cada semana.
+
+Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/ZvhbRp8jBrPDypAF8) al final de tu mentoría.
+
+### Mentores Asignados
+
+| Mentor               | Mentee                          |  Liga para agendar mentoria                |
+|----------------------|---------------------------------|--------------------------------------------|
+| `Diego Parra Robayo`       | - ALEJANDRO POZAS OLIVA   <br/> - ALFREDO SALVADOR GRANCIANO HERNANDEZ  | [Liga]() |
+| `Julio Saldaña Baez`      | - HERIBERTO PEREZ PALMA  <br/> - FRANCISCO FEREGRINO CARRADA  <br> ERNESTO SANDOVAL BECERRA | [Liga]()
+| `Angel Ivan Colunga Hernandez`       | - RAFAEL PEREZ DIAZ <br/> - MARCO ANTONIO DIAZ BAUTISTA <br/> - ALAN CRISTIAN CRUZ PEÑA | [Liga]()
+| `Mauricio Burgos Rosado`       | - RONALDO SANTIAGO VALDEZ <br/> -  JAVIER JASSAEL BUSTOS ALFARO <br>  -  MIGUEL ANGEL ESCAMILLA MIRANDA | [Liga]() |
+| `Max Bautista Aguirre`      | -  EFRAIN GONZALEZ PEREZ <br/> - CARLOS IVAN MORALES PEREA <br/>  - JOSE MANUEL PELENCO RAMIREZ | [Liga]() |
+| `Erick Juarez Gil`      |  - ALEXIS ZUGARAZO BERNAL <br/> - JONATAN CRISTIAN FLORES SANCHEZ <br/> - HUGO ENRIQUE AMARO OLGUIN  | [Liga]()
+| `Sergio Castrillon Idarraga`  | - MARGARITO MIGUEL GONZALEZ CLARA <br/> - JOSE LUIS SOTO GARCIA <br/> - CRISTIAN EDUARDO ORTEGA VELAZQUEZ | [Liga]()
+| `Diego Urrea`    | - VICTOR ALFONSO DE LA CRUZ ALONSO <br/> - YAZMIN IVONNE ORTIZ TREJO <br/> - RENE VARGAS CRUZ | [Liga]()
+| `Kevin Chanto`         | - IVAN MARTINEZ ZARATE <br/> - EDUARDO ALARCON MARTINEZ <br/> | [Liga]() |
+
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
 - **BAZ SUPERAPP**: 
