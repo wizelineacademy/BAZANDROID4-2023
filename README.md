@@ -96,13 +96,13 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/ZvhbRp8jBrP
 |----------------------|---------------------------------|--------------------------------------------|
 | `Diego Parra Robayo`       | - ALEJANDRO POZAS OLIVA   <br/> - ALFREDO SALVADOR GRANCIANO HERNANDEZ   | [Liga](https://calendly.com/diego-parra-robayo/baz-mentoria-1-1) |
 | `Julio Saldaña Baez`      | - JOSE LUIS PINO UCAN  <br/> - JOSE ANDRES RIVAS JERONIMO  | [Liga](https://calendly.com/julio-saldana)
-| `Angel Ivan Colunga Hernandez`       | - PEDRO ANTONIO AMBROSIO <br/> - ROBERTO ANTONIO GUTIERREZ CAMPOS | [Liga]()
-| `Héctor Burgos Rosado`       | - JACOBO GONZALEZ TAMAYO <br/> -  OSCAR JAIR RODRIGUEZ LARA  | [Liga]() |
-| `Max Bautista Aguirre`      | -  JOSE LUIS HERNANDEZ GARDUÑO <br/> - JOSE RAMON SUBIAS MENDOZA | [Liga]() |
-| `Erick Juarez Gil`      |  - JESUS CRUZ VICTORIA <br/> - PEDRO IGNACIO DUARTE SANDIN  | [Liga]()
-| `Sergio Castrillon Idarraga`  | - ALEJANDRO ROJO DAVILA <br/> - GABRIEL MORALES GARCIA | [Liga]()
-| `Diego Urrea`    | - EDITH MALDONADO SILVESTRE <br/> - CLAUDIA LILIBETH QUEZADA BELLO  | [Liga]()
-| `Kevin Chanto`         | - JULIO GALLEGO HUILOTL | [Liga]() |
+| `Angel Ivan Colunga Hernandez`       | - PEDRO ANTONIO AMBROSIO <br/> - ROBERTO ANTONIO GUTIERREZ CAMPOS | [Liga](https://calendly.com/angel-colunga-wizeline/baz-mentoring)
+| `Héctor Burgos Rosado`       | - JACOBO GONZALEZ TAMAYO <br/> -  OSCAR JAIR RODRIGUEZ LARA  | [Liga](https://calendly.com/hector-burgos-1/baz-mentoria-1-1) |
+| `Max Bautista Aguirre`      | -  JOSE LUIS HERNANDEZ GARDUÑO <br/> - JOSE RAMON SUBIAS MENDOZA | [Liga](https://calendly.com/maximo-bautista) |
+| `Erick Juarez Gil`      |  - JESUS CRUZ VICTORIA <br/> - PEDRO IGNACIO DUARTE SANDIN  | [Liga](calendly.com/erick-juarez-wizeline)
+| `Sergio Castrillon Idarraga`  | - ALEJANDRO ROJO DAVILA <br/> - GABRIEL MORALES GARCIA | [Liga](https://calendly.com/sergio-castrillon-wizeline/baz-mentoring)
+| `Diego Urrea`    | - EDITH MALDONADO SILVESTRE <br/> - CLAUDIA LILIBETH QUEZADA BELLO  | [Liga](https://calendly.com/diego-urrea/1hr)
+| `Kevin Chanto`         | - JULIO GALLEGO HUILOTL | [Liga](https://calendly.com/wizeline-kevin-chanto/baz-mentoria) |
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
