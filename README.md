@@ -94,15 +94,15 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/ZvhbRp8jBrP
 
 | Mentor               | Mentee                          |  Liga para agendar mentoria                |
 |----------------------|---------------------------------|--------------------------------------------|
-| `Diego Parra Robayo`       | - ALEJANDRO POZAS OLIVA   <br/> - ALFREDO SALVADOR GRANCIANO HERNANDEZ  | [Liga]() |
-| `Julio Saldaña Baez`      | - HERIBERTO PEREZ PALMA  <br/> - FRANCISCO FEREGRINO CARRADA  <br> ERNESTO SANDOVAL BECERRA | [Liga]()
-| `Angel Ivan Colunga Hernandez`       | - RAFAEL PEREZ DIAZ <br/> - MARCO ANTONIO DIAZ BAUTISTA <br/> - ALAN CRISTIAN CRUZ PEÑA | [Liga]()
-| `Mauricio Burgos Rosado`       | - RONALDO SANTIAGO VALDEZ <br/> -  JAVIER JASSAEL BUSTOS ALFARO <br>  -  MIGUEL ANGEL ESCAMILLA MIRANDA | [Liga]() |
-| `Max Bautista Aguirre`      | -  EFRAIN GONZALEZ PEREZ <br/> - CARLOS IVAN MORALES PEREA <br/>  - JOSE MANUEL PELENCO RAMIREZ | [Liga]() |
-| `Erick Juarez Gil`      |  - ALEXIS ZUGARAZO BERNAL <br/> - JONATAN CRISTIAN FLORES SANCHEZ <br/> - HUGO ENRIQUE AMARO OLGUIN  | [Liga]()
-| `Sergio Castrillon Idarraga`  | - MARGARITO MIGUEL GONZALEZ CLARA <br/> - JOSE LUIS SOTO GARCIA <br/> - CRISTIAN EDUARDO ORTEGA VELAZQUEZ | [Liga]()
-| `Diego Urrea`    | - VICTOR ALFONSO DE LA CRUZ ALONSO <br/> - YAZMIN IVONNE ORTIZ TREJO <br/> - RENE VARGAS CRUZ | [Liga]()
-| `Kevin Chanto`         | - IVAN MARTINEZ ZARATE <br/> - EDUARDO ALARCON MARTINEZ <br/> | [Liga]() |
+| `Diego Parra Robayo`       | - ALEJANDRO POZAS OLIVA   <br/> - ALFREDO SALVADOR GRANCIANO HERNANDEZ   | [Liga]() |
+| `Julio Saldaña Baez`      | - JOSE LUIS PINO UCAN  <br/> - JOSE ANDRES RIVAS JERONIMO  | [Liga]()
+| `Angel Ivan Colunga Hernandez`       | - PEDRO ANTONIO AMBROSIO <br/> - ROBERTO ANTONIO GUTIERREZ CAMPOS | [Liga]()
+| `Héctor Burgos Rosado`       | - JACOBO GONZALEZ TAMAYO <br/> -  OSCAR JAIR RODRIGUEZ LARA  | [Liga]() |
+| `Max Bautista Aguirre`      | -  JOSE LUIS HERNANDEZ GARDUÑO <br/> - JOSE RAMON SUBIAS MENDOZA | [Liga]() |
+| `Erick Juarez Gil`      |  - JESUS CRUZ VICTORIA <br/> - PEDRO IGNACIO DUARTE SANDIN  | [Liga]()
+| `Sergio Castrillon Idarraga`  | - ALEJANDRO ROJO DAVILA <br/> - GABRIEL MORALES GARCIA | [Liga]()
+| `Diego Urrea`    | - EDITH MALDONADO SILVESTRE <br/> - CLAUDIA LILIBETH QUEZADA BELLO  | [Liga]()
+| `Kevin Chanto`         | - JULIO GALLEGO HUILOTL | [Liga]() |
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
