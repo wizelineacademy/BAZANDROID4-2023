@@ -82,7 +82,7 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 
 [Aquí]() encontrarás las instrucciones para completar tu proyecto final.
 
-Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
+Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1. Deberás registrar el envío de tu entragble en este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf75ZfML4yjQj1PWE7ZDyEW6dzoswscXkrOXgl_SLgcI___nw/viewform?usp=sf_link)
 
 
 # V. Agenda tu mentoria 📆
