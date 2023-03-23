@@ -8,6 +8,8 @@
 
 - Navigation component
 
+Repositorio para la clase
+https://github.com/irvingDevMobi/navigation
 
 ## 
 
