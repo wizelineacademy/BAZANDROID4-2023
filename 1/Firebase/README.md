@@ -6,8 +6,11 @@
 
 ### Contenido de la sesión
 
-- Firebase
+- Firebase Auth
+- Firebase Database Real Time
+- Firebase Storage
 
+Repositorio para la clase https://github.com/irvingDevMobi/wizeline-academy-firebase
 
 ## 
 
