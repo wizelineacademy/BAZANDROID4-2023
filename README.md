@@ -69,7 +69,7 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    2. [Configuracion de Flavors]()
    3. [Identificación de buenas practicas de programación]()
 
-## IV 📺 Grabaciones sesiones y Presentaciones
+# IV 📺 Grabaciones sesiones y Presentaciones
 
 En [esta liga](/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
