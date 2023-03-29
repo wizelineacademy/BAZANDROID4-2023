@@ -100,9 +100,9 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/vsLszkzMs7U
 | `Héctor Burgos Rosado`       | - JACOBO GONZALEZ TAMAYO <br/> -  OSCAR JAIR RODRIGUEZ LARA  | [Liga](https://calendly.com/hector-burgos-1/baz-mentoria-1-1) |
 | `Max Bautista Aguirre`      | -  JOSE LUIS HERNANDEZ GARDUÑO <br/> - JOSE RAMON SUBIAS MENDOZA | [Liga](https://calendly.com/maximo-bautista) |
 | `Erick Juarez Gil`      |  - JESUS CRUZ VICTORIA <br/> - PEDRO IGNACIO DUARTE SANDIN  | [Liga](calendly.com/erick-juarez-wizeline)
-| `Sergio Castrillon Idarraga`  | - ALEJANDRO ROJO DAVILA <br/> - GABRIEL MORALES GARCIA | [Liga](https://calendly.com/sergio-castrillon-wizeline/baz-mentoring)
+| `Sergio Castrillon Idarraga`  | - ALEJANDRO ROJO DAVILA <br/> - JULIO GALLEGO HUILOTL | [Liga](https://calendly.com/sergio-castrillon-wizeline/baz-mentoring)
 | `Diego Urrea`    | - EDITH MALDONADO SILVESTRE <br/> - CLAUDIA LILIBETH QUEZADA BELLO  | [Liga](https://calendly.com/diego-urrea/1hr)
-| `Kevin Chanto`         | - JULIO GALLEGO HUILOTL | [Liga](https://calendly.com/wizeline-kevin-chanto/baz-mentoria) |
+
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
