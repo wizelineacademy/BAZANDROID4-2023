@@ -46,8 +46,8 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 2 
    1. [Corrutinas]()
-   2. [Rx]
-   3. [Capas]
+   2. [Rx]()
+   3. [Capas]()
 
 ### Semana 3
    1. [ROOM]()
