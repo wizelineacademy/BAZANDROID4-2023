@@ -45,29 +45,29 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    3. [Herramientas de Firebase](/1/Firebase)
 
 ### Semana 2 
-   1. [Corrutinas](/2/Programacion_Orientada_a_Objetos_1)
-   2. [Rx](/2/Programacion_Orientada_a_Objetos_2)
-   3. [Capas (UI, DOMAIN, DATA)](/2/Programacion_Orientada_a_Objetos_3)
+   1. [Corrutinas]()
+   2. [Rx]()
+   3. [Capas ()
 
 ### Semana 3
-   1. [ROOM](/3/Principios%20SOLID%20)
-   2. [MVVM vs MVI](/3/Android%20Studio)
-   3. [Patrón de Diseño](/4/ConsumoRetrofit)
+   1. [ROOM]()
+   2. [MVVM vs MVI]()
+   3. [Patrón de Diseño](t)
     
 ### Semana 4
    1. [Inyección de Dependencias]
-   2. [JetPack Compose Parte 1](/4/MVVM)
-   3. [JetPack Compose Parte 2](/4/ViewBindingVsDataBinding)
+   2. [JetPack Compose Parte 1](/6/Jetpack%20Compose%20I)
+   3. [JetPack Compose Parte 2](/6/Jetpack%20Compose%20II)
 
 ### Semana 5
-   1. [Unit Testing: Parte 1](/5/Kotlin%20coroutines%20I)
-   2. [Unit Testing: Parte 2](/5/Kotlin%20coroutines%20II)
-   3. [Instrument Testing](/5/Kotlin%20coroutines%20III)
+   1. [Unit Testing: Parte 1]()
+   2. [Unit Testing: Parte 2]()
+   3. [Instrument Testing]()
 
 ### Semana 6
-   1. [Programación Modular](/6/Jetpack%20Compose%20I)
-   2. [Configuracion de Flavors](/6/Jetpack%20Compose%20II)
-   3. [Identificación de buenas practicas de programación](/6/Jetpack%20Compose%20III)
+   1. [Programación Modular]()
+   2. [Configuracion de Flavors]()
+   3. [Identificación de buenas practicas de programación]()
 
 ## IV 📺 Grabaciones sesiones y Presentaciones
 
