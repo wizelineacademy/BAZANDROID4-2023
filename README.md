@@ -46,20 +46,8 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 2 
    1. [Corrutinas]()
-[Cómo mejorar el rendimiento de una app con corrutinas de Kotlin](https://developer.android.com/kotlin/coroutines/coroutines-adv)
-[Prácticas recomendadas para corrutinas en Android](https://developer.android.com/kotlin/coroutines/coroutines-best-practices)
-[Guía de corrutinas](https://kotlinlang.org/docs/coroutines-guide.html)
-[Coroutine Context y Dispatchers](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html)
-[Manejo de excepciones en corrutinas](https://kotlinlang.org/docs/exception-handling.html)
-[Repositorio app películas](https://github.com/wizelineacademy/sample-movies-app-BAZANDROID4-2023/tree/coroutines/main)
    2. [Rx]
-[Backpressure](https://github.com/ReactiveX/RxJava/wiki/Backpressure)
-[Operadores RxJava](https://reactivex.io/documentation/operators.html)
-[Ejemplos Rx publish](https://medium.com/@maorkorakin/rx-publish-examples-58ae196908f0)
-[Hot Observables](https://proandroiddev.com/rxjava-different-types-of-subjects-ef9183b5e87e)
-[Repositorio app películas](https://github.com/wizelineacademy/sample-movies-app-BAZANDROID4-2023/tree/rxjava/main)
-
-   3. [Capas](https://developer.android.com/topic/architecture)
+   3. [Capas]
 
 ### Semana 3
    1. [ROOM]()
