@@ -26,7 +26,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Miércoles y jueves: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
-- Son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
+- Son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
 - Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
@@ -69,24 +69,24 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    2. [Configuracion de Flavors](/6/Jetpack%20Compose%20II)
    3. [Identificación de buenas practicas de programación](/6/Jetpack%20Compose%20III)
 
-## 📺 Grabaciones sesiones y Presentaciones
+## IV 📺 Grabaciones sesiones y Presentaciones
 
 En [esta liga](/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
 
-# IV. Proyecto Final (Capstone Project)
+# V. Proyecto Final (Capstone Project)
 **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzarás y aplicarás los conocimientos que vas adquiriendo.
+Para aprobar el curso debes desarrollar un proyecto final en el cual reforzarás y aplicarás los conocimientos que vas adquiriendo.
 - Para poder presentar tu proyecto final, debes contar con un **mínimo de 6 mentorías on-demand**.
-- Se tomará en cuenta tu participación en sesiones presenciales y virtuales.
+- Tu participación en sesiones presenciales y virtuales, se tomará en cuenta.
 
-[Aquí](https://github.com/wizelineacademy/BAZANDROID4-2023CAPSTONE) encontrarás las instrucciones para completar tu proyecto final.
+[Aquí](https://github.com/wizelineacademy/BAZANDROID4-2023CAPSTONE) encontrarás las instrucciones para completar tu proyecto final. Recuerda registrar cada uno de tus entregables en este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf75ZfML4yjQj1PWE7ZDyEW6dzoswscXkrOXgl_SLgcI___nw/viewform?usp=sf_link)
 
-Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1. Deberás registrar el envío de tu entragble en este [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf75ZfML4yjQj1PWE7ZDyEW6dzoswscXkrOXgl_SLgcI___nw/viewform?usp=sf_link)
+Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1. 
 
 
-# V. Agenda tu mentoria 📆
-Cada alumno/mentee debera contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables correspondientes a cada semana.
+# VI. Agenda tu mentoria 📆
+Cada alumno/mentee debe contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables correspondientes a cada semana.
 
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/vsLszkzMs7UzwfTq5) al final de tu mentoría.
 
