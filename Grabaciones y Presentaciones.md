@@ -14,6 +14,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 29 Mar - Corrutinas](https://drive.google.com/file/d/1oYE9OOOMK6g6iuxwVSQIZXOcAz1ThDJ0/view?usp=sharing)
 - 📺 [Grabación Miércoles 29 Mar](https://drive.google.com/file/d/1hb9F5qPJ7GjM-MBuiJ2pfiTWLlhlkQwc/view?usp=sharing)
 - [Jueves 30 Mar - RX](https://drive.google.com/file/d/1A1duf0OamTD6Nk6TiHguFVmBMbZuxD_K/view?usp=sharing)
-- 📺 [Grabación Jueves 30 Mar]()
+- 📺 [Grabación Jueves 30 Mar](https://drive.google.com/file/d/1Ag7gYCLuDT3utPatxpuHf6kFm9aS1t9H/view?usp=share_link)
 - [Viernes 31 Mar - Capas (UI, DOMAIN, DATA)](https://drive.google.com/file/d/18ibQvflMVLi4GFRiN-t1orO1-wFQYDmE/view?usp=sharing)
 - 📺 [Grabación Viernes 31 Mar]()
