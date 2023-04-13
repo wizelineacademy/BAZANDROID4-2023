@@ -21,7 +21,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 3
 - [Miércoles 12 Abr - Room](https://drive.google.com/file/d/1-opQRwB9zctf0S35cj67YyBVAUvaGXrC/view?usp=sharing)
-- 📺 [Grabación Miércoles 12 Abr ]()
+- 📺 [Grabación Miércoles 12 Abr ](https://drive.google.com/file/d/1ylOG8X1v6ZEkaQ0PKdvqEdlwSrw64MIG/view?usp=sharing)
 - [Jueves 13 Abr - MVVM vs MVI](https://drive.google.com/file/d/1-Y5aQtuNlO1IdN6MG40yP0iEep8yyz-k/view?usp=sharing)
 - 📺 [Grabación Jueves 13 Abr]()
 - [Viernes 14 Abr - Patrón de Diseño](https://drive.google.com/file/d/1vAnpXUx1yOHLf77o9e7USom5Jnh01vxH/view?usp=sharing)
