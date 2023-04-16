@@ -25,4 +25,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 13 Abr - MVVM vs MVI](https://drive.google.com/file/d/1-Y5aQtuNlO1IdN6MG40yP0iEep8yyz-k/view?usp=sharing)
 - 📺 [Grabación Jueves 13 Abr](https://drive.google.com/file/d/19cSuij5ovbbwUaGd4OLaC6L4RHImSbfv/view?usp=sharing)
 - [Viernes 14 Abr - Patrón de Diseño](https://drive.google.com/file/d/1vAnpXUx1yOHLf77o9e7USom5Jnh01vxH/view?usp=sharing)
-- 📺 [Grabación Viernes 14 Abr]()
+- 📺 [Grabación Viernes 14 Abr](https://drive.google.com/file/d/1JAPif7wEA7J5I7Zgf8e2g-Ky0pPM1cmM/view?usp=sharing)
