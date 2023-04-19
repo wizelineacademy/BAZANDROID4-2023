@@ -28,9 +28,9 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Viernes 14 Abr](https://drive.google.com/file/d/1JAPif7wEA7J5I7Zgf8e2g-Ky0pPM1cmM/view?usp=sharing)
 
 # Semana 4
-- [Miércoles 19 Abr - Inyección de dependencias](https://drive.google.com/file/d/14k762Q3j-K8g3W-bt7vdteUP5euiYYat/view?usp=sharing)
+- [Miércoles 19 Abr - Inyección de dependencias](https://drive.google.com/file/d/1hL_5CENCatxW7gc4gmTy0obHu8_pjy95/view?usp=sharing)
 - 📺 [Grabación Miércoles 19 Abr ]()
-- [Jueves 20 Abr - Jetpack Compose I](https://drive.google.com/file/d/1UiqIGDLAKTiRcaci2LW1SbZZ8QoOgSud/view?usp=sharing)
+- [Jueves 20 Abr - Jetpack Compose I](https://drive.google.com/file/d/1QqhLLz-QXwuhGLH45n6NpvpMIzrAHZAh/view?usp=sharing)
 - 📺 [Grabación Jueves 20 Abr]()
-- [Viernes 21 Abr - Jetpack Compose II](https://drive.google.com/file/d/1i1bOH89zo7JrVp7rz6HxUOZQ-AFAICcV/view?usp=sharing)
+- [Viernes 21 Abr - Jetpack Compose II](https://drive.google.com/file/d/1G4loK09SdC3goE4GyUYMiNOzYd8Qi33H/view?usp=sharing)
 - 📺 [Grabación Viernes 21 Abr]()
