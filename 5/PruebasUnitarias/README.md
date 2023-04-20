@@ -1,4 +1,4 @@
-# Capas (UI, Domain, Data)
+# Pruebas Unitarias - Mid
 En esta sección se realizarán pruebas unitarias básicas, aprenderáan a hacer el “setUp” de un ambiente de pruebas, realizarán pruebas unitarias utilizando MockK y aprenderán a identificar cuando una clase necesita refactor para poder ser testeable
 
 ### Contenido de la sesión
