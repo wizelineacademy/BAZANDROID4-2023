@@ -33,4 +33,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 20 Abr - Jetpack Compose I](https://drive.google.com/file/d/1QqhLLz-QXwuhGLH45n6NpvpMIzrAHZAh/view?usp=sharing)
 - 📺 [Grabación Jueves 20 Abr]()
 - [Viernes 21 Abr - Jetpack Compose II](https://drive.google.com/file/d/1G4loK09SdC3goE4GyUYMiNOzYd8Qi33H/view?usp=sharing)
-- 📺 [Grabación Viernes 21 Abr]()
+- 📺 [Grabación Viernes 21 Abr](https://drive.google.com/file/d/1RjgbNNoXuwk-Gwd70n__K95rUgQu6p1O/view?usp=sharing)
