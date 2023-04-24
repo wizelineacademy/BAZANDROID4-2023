@@ -45,29 +45,29 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    3. [Herramientas de Firebase](/1/Firebase)
 
 ### Semana 2 
-   1. [Corrutinas]()
-   2. [Rx]()
-   3. [Capas]()
+   1. [Corrutinas](/2/Corrutinas)
+   2. [Rx](/2/RxJava)
+   3. [Capas](/2/Capas)
 
 ### Semana 3
-   1. [ROOM]()
-   2. [MVVM vs MVI]()
-   3. [Patrón de Diseño](t)
+   1. [ROOM](/3/ROOM)
+   2. [MVVM vs MVI](/3/MVVM_vs_MVI)
+   3. [Patrón de Diseño](/3/Patrones_de_diseno)
     
 ### Semana 4
-   1. [Inyección de Dependencias]
-   2. [JetPack Compose Parte 1](/6/Jetpack%20Compose%20I)
-   3. [JetPack Compose Parte 2](/6/Jetpack%20Compose%20II)
+   1. [Inyección de Dependencias](/4/Injeccion_de_dependencias)
+   2. [JetPack Compose Parte 1](/4/JetpackComposePt1)
+   3. [JetPack Compose Parte 2](/4/JetpackComposePt2)
 
 ### Semana 5
-   1. [Unit Testing: Parte 1]()
-   2. [Unit Testing: Parte 2]()
-   3. [Instrument Testing]()
+   1. [Unit Testing: Parte 1](/5/Testing)
+   2. [Unit Testing: Parte 2](/5/PruebasUnitarias)
+   3. [Instrument Testing](/5/InstrumentacionEnAndroid)
 
 ### Semana 6
-   1. [Programación Modular]()
-   2. [Configuracion de Flavors]()
-   3. [Identificación de buenas practicas de programación]()
+   1. [Programación Modular](/6/ProgramacionModular)
+   2. [Configuracion de Flavors](/6/ConfiguracionDeFlavors)
+   3. [Identificación de buenas practicas de programación](/6/BuenasPracticasEnAndroid)
 
 # IV 📺 Grabaciones sesiones y Presentaciones
 
