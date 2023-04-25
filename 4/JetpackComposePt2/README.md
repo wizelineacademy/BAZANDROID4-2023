@@ -1,4 +1,4 @@
-# Jetpaco Compose Parte 2
+# Jetpack Compose Parte 2
 Aprenderán conceptos más avanzados de Jetpack Compose
 
 ### Contenido de la sesión
