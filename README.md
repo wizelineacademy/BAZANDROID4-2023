@@ -66,8 +66,8 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
 
 ### Semana 6
    1. [Programación Modular](/6/ProgramacionModular)
-   2. [Configuracion de Flavors](/6/ConfiguracionDeFlavors)
-   3. [Identificación de buenas practicas de programación](/6/BuenasPracticasEnAndroid)
+   2. [Configuración de Flavors](/6/ConfiguracionDeFlavors)
+   3. [Identificación de buenas prácticas de programación](/6/BuenasPracticasEnAndroid)
 
 # IV 📺 Grabaciones sesiones y Presentaciones
 
