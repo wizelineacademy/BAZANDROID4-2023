@@ -39,6 +39,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 26 Abr - Unit Testing: Parte 1](https://drive.google.com/file/d/1zH5XwNC6ZYiBLAeRYoGQQOYPZlouXsOt/view?usp=sharing)
 - 📺 [Grabación Miércoles 26 Abr](https://drive.google.com/file/d/19pUNrfIGaS9pd8XrzT3sGTbE6AAqodBw/view?usp=sharing)
 - [Jueves 27 Abr - Unit Testing: Parte 2](https://drive.google.com/file/d/1wMhb9d5RIF1jvWvqtmzh8Sk0VAZwxEoR/view?usp=sharing)
-- 📺 [Grabación Jueves 27 Abr]()
+- 📺 [Grabación Jueves 27 Abr](https://drive.google.com/file/d/1y7COjRlgUg93CTWZPYikAtIGRB63SY9N/view?usp=sharing)
 - [Viernes 28 Abr - Instrument Testing](https://drive.google.com/file/d/1-a2seUVxoHvY3H51ZIzkDd5cw2Saq1uC/view?usp=sharing)
 - 📺 [Grabación Viernes 28 Abr]()
