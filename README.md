@@ -65,7 +65,8 @@ Los temas estan divididos en 6 semanas, 3 sesiones por semana.
    3. [Instrument Testing](/5/InstrumentacionEnAndroid)
 
 ### Semana 6
-   1. [Programación Modular](/6/ProgramacionModular)
+   1. [Programación Modular](/6/ProgramacionModular) 
+      a. [Ejercicio de practica](https://github.com/irvingDevMobi/academyApp)
    2. [Configuración de Flavors](/6/ConfiguracionDeFlavors)
    3. [Identificación de buenas prácticas de programación](/6/BuenasPracticasEnAndroid)
 
