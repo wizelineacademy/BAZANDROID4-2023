@@ -42,3 +42,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Jueves 27 Abr](https://drive.google.com/file/d/1y7COjRlgUg93CTWZPYikAtIGRB63SY9N/view?usp=sharing)
 - [Viernes 28 Abr - Instrument Testing](https://drive.google.com/file/d/1-a2seUVxoHvY3H51ZIzkDd5cw2Saq1uC/view?usp=sharing)
 - 📺 [Grabación Viernes 28 Abr](https://drive.google.com/file/d/1h9mSRcFgMaAU2il6c_lKRjXsHp6FJ5le/view?usp=sharing)
+
+# Semana 6
+- [Miércoles 3 Mayo - Programación Modular](https://drive.google.com/file/d/1v5yqMmRXBhkHhIp4xylHkmSC7bFGBalt/view?usp=sharing)
+- 📺 [Grabación Miércoles 3 Mayo]()
+- [Jueves 4 Mayo - Configuracion de Flavors]()
+- 📺 [Grabación Jueves 4 Mayo]()
+- [Viernes 5 Mayo - Identificacióon de buenas practicas de programación]()
+- 📺 [Grabación Viernes 5 Mayo]()
