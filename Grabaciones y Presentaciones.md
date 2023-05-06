@@ -47,6 +47,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 3 Mayo - Programación Modular](https://drive.google.com/file/d/1v5yqMmRXBhkHhIp4xylHkmSC7bFGBalt/view?usp=sharing)
 - 📺 [Grabación Miércoles 3 Mayo](https://drive.google.com/file/d/1kZXP5ojvjACvIG0URf069omdARULvyY4/view?usp=sharing)
 - [Jueves 4 Mayo - Configuracion de Flavors](https://drive.google.com/file/d/1ifl9W6njqpfaGASKOUnRIT8V2xtEUWyA/view?usp=sharing)
-- 📺 [Grabación Jueves 4 Mayo]()
+- 📺 [Grabación Jueves 4 Mayo](https://drive.google.com/file/d/1b9Ajjbo91zNDCncw30oRVNWufAM9CK6u/view?usp=sharing)
 - [Viernes 5 Mayo - Identificacióon de buenas practicas de programación](https://drive.google.com/file/d/1gVWhOiz95nAZkeNxnN5bmMtFgwBcfAsl/view?usp=sharing)
 - 📺 [Grabación Viernes 5 Mayo]()
